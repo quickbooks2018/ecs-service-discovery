@@ -3,7 +3,7 @@
 - docker custom network
 
 ```network
-docker network create cloudgeeks
+docker network create cloudgeeks --attachable
 ```
 
 - Redis
